@@ -1,0 +1,4 @@
+{
+	"exxtends": ["@tsconfig/node24"],
+	"include": ["*.ts"]
+}
